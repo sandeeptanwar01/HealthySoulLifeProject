@@ -73,11 +73,11 @@ export default function Header() {
           <ul className="hidden lg:flex items-center gap-8 font-medium text-gray-700">
 
             <li>
-              <Link href="/" className="text-teal-500">Home</Link>
+              <Link href={"/"} className="text-teal-500">Home</Link>
             </li>
 
             <li>
-              <Link href="/about" className="hover:text-teal-500">About Us</Link>
+              <Link href={"/"} className="hover:text-teal-500">About Us</Link>
             </li>
 
             {/* SERVICES DROPDOWN (DESKTOP HOVER) */}
@@ -121,13 +121,13 @@ export default function Header() {
               </div>
             </li>
 
-            <li>
+            {/* <li>
               <Link href="/blog" className="hover:text-teal-500">Blog</Link>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <Link href="/careers" className="hover:text-teal-500">Careers</Link>
-            </li>
+            </li> */}
 
             <li>
               <Link href="/contact-us" className="hover:text-teal-500">Contact</Link>
