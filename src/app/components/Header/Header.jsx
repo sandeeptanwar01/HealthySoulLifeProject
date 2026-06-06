@@ -93,10 +93,10 @@ export default function Header() {
                 <Link href="/services/pre-health" className="block py-2 hover:text-teal-500">
                   Pre Health Checkup
                 </Link>
-                <Link href="/services/annual" className="block py-2 hover:text-teal-500">
+                <Link href="/services/annual-health" className="block py-2 hover:text-teal-500">
                   Annual Checkup
                 </Link>
-                 <Link href="/services/camp-health" className="block py-2 hover:text-teal-500">
+                 <Link href="/services/health-camp" className="block py-2 hover:text-teal-500">
                   Health Camp
                 </Link>
               </div>
@@ -130,7 +130,7 @@ export default function Header() {
             </li>
 
             <li>
-              <Link href="/contact" className="hover:text-teal-500">Contact</Link>
+              <Link href="/contact-us" className="hover:text-teal-500">Contact</Link>
             </li>
 
           </ul>
@@ -173,8 +173,8 @@ export default function Header() {
                 <div className="pl-4 bg-gray-50">
                   <MobileNav href="/services/pre-policy" text="Pre Policy Checkup" />
                   <MobileNav href="/services/pre-health" text="Pre Health Checkup" />
-                  <MobileNav href="/services/annual" text="Annual Checkup" />
-                  <MobileNav href="/services/camp-health" text="Health Camp" />
+                  <MobileNav href="/services/annual-health" text="Annual Checkup" />
+                  <MobileNav href="/services/health-camp" text="Health Camp" />
                 </div>
               )}
             </div>
