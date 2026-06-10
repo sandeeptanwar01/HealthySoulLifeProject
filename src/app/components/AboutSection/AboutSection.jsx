@@ -72,7 +72,7 @@ export default function AboutSection() {
             </ul>
 
             <button className="mt-8 bg-teal-500 hover:bg-teal-600 text-white px-8 py-3 rounded-full font-semibold transition">
-              Learn More
+              Learn More...
             </button>
           </div>
 
