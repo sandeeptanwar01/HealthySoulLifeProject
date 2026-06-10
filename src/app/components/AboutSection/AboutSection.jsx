@@ -66,7 +66,7 @@ export default function AboutSection() {
                 <span className="text-green-500 text-xl">✓</span>
                 <span>
                   Our mission is to provide wellness services to corporates at
-                  affordable prices.
+                  affordable prices.........
                 </span>
               </li>
             </ul>
