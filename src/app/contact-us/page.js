@@ -15,7 +15,7 @@ export default function ContactPage() {
             </h1>
 
             <p className="text-gray-600 mt-5 text-lg leading-7">
-              We are here to help you anytime. Send us a message and we will respond quickly.
+              We are here to help you anytime. Send us a message and we will respond quickly..
             </p>
 
             <div className="flex items-center gap-2 mt-6 text-sm">
