@@ -10,7 +10,7 @@ export default function AnnualHealthCheckup() {
           </h2>
 
           <p className="text-green-600 mt-3 font-medium">
-            Preventive Corporate Health Program
+            Preventive Corporate Health Program..
           </p>
         </div>
 
